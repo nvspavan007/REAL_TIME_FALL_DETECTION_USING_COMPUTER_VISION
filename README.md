@@ -1,5 +1,5 @@
 
-# ----- THIS IS MY RESEARCH INTERNSHIP PROJECT AT IIT HYDERABAD ------------------
+# ----- THIS IS MY RESEARCH PROJECT DURING INTERNSHIP AT IIT HYDERABAD ------------------
 
 Developed and implemented a robust fall detection algorithm leveraging background subtraction, contour detection, and bounding box calculation methodologies to accurately identify instances of falling with precision and efficiency.
 
